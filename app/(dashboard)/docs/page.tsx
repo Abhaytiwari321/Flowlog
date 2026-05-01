@@ -49,7 +49,7 @@ export default function DocsPage() {
           </div>
           <div className="text-muted-foreground">
             <p className="font-semibold text-foreground">A real example:</p>
-            <p className="font-medium">You want to work on a specific fix. You type &quot;Review pull requests for Abhishek&quot; and press Enter. The task drops into your list ready for you to start working.</p>
+            <p className="font-medium">You want to work on a specific fix. You type &quot;Review pull requests for Abhay&quot; and press Enter. The task drops into your list ready for you to start working.</p>
           </div>
           <blockquote className="border-l-4 border-primary/50 pl-4 italic text-muted-foreground bg-muted/20 py-2 rounded-r-lg font-medium">
             Good to know: Flowlog has a smart parser so you rarely need to tag items manually.
@@ -74,7 +74,7 @@ export default function DocsPage() {
           </div>
           <div className="text-muted-foreground">
             <p className="font-semibold text-foreground">A real example:</p>
-            <p className="font-medium">You type &quot;Fix the login bug for ConnectHub App&quot;. Flowlog scans your text against your existing clients. It uses a scoring model to match &quot;ConnectHub App&quot; to the project and automatically assigns the task to the client <strong className="text-foreground">Abhishek</strong>. No extra input is needed.</p>
+            <p className="font-medium">You type &quot;Fix the login bug for ConnectHub App&quot;. Flowlog scans your text against your existing clients. It uses a scoring model to match &quot;ConnectHub App&quot; to the project and automatically assigns the task to the client <strong className="text-foreground">Abhay</strong>. No extra input is needed.</p>
           </div>
           <blockquote className="border-l-4 border-primary/50 pl-4 italic text-muted-foreground bg-muted/20 py-2 rounded-r-lg font-medium">
             Good to know: You can optionally override the parser using <code className="bg-muted px-1.5 py-0.5 rounded text-sm not-italic">@ClientName</code>, <code className="bg-muted px-1.5 py-0.5 rounded text-sm not-italic">#ProjectName</code>, and <code className="bg-muted px-1.5 py-0.5 rounded text-sm not-italic">!priority</code> syntax.
@@ -124,7 +124,7 @@ export default function DocsPage() {
           </div>
           <div className="text-muted-foreground">
             <p className="font-semibold text-foreground">A real example:</p>
-            <p className="font-medium">You leave &quot;Test the Stripe integration for Abhishek&quot; unfinished on Tuesday. At exactly 12:00 AM, Flowlog pushes this task to Wednesday. You wake up, open Flowlog, and see it waiting for you in your new list.</p>
+            <p className="font-medium">You leave &quot;Test the Stripe integration for Abhay&quot; unfinished on Tuesday. At exactly 12:00 AM, Flowlog pushes this task to Wednesday. You wake up, open Flowlog, and see it waiting for you in your new list.</p>
           </div>
           <blockquote className="border-l-4 border-primary/50 pl-4 italic text-muted-foreground bg-muted/20 py-2 rounded-r-lg font-medium">
             Good to know: Tasks keep rolling over every single midnight until you finally finish or delete them.
@@ -180,7 +180,7 @@ export default function DocsPage() {
           </div>
           <div className="text-muted-foreground">
             <p className="font-semibold text-foreground">A real example:</p>
-            <p className="font-medium">You click New Client and type &quot;Abhishek&quot;. You open the client page and click New Project. You type &quot;Mobile App&quot;. Now you have a specific project to organize all work for Abhishek&apos;s app.</p>
+            <p className="font-medium">You click New Client and type &quot;Abhay&quot;. You open the client page and click New Project. You type &quot;Mobile App&quot;. Now you have a specific project to organize all work for Abhay&apos;s app.</p>
           </div>
           <blockquote className="border-l-4 border-primary/50 pl-4 italic text-muted-foreground bg-muted/20 py-2 rounded-r-lg font-medium">
             Good to know: You are recorded as the owner of any client you create.
@@ -264,7 +264,7 @@ export default function DocsPage() {
           </div>
           <div className="text-muted-foreground">
             <p className="font-semibold text-foreground">A real example:</p>
-            <p className="font-medium">You create &quot;Sprint planning with Abhishek&quot;. You pick a 15-minute reminder. At exactly 15 minutes before the meeting, Flowlog checks the schedule. It sends an email to you containing the time, client, and any notes you added.</p>
+            <p className="font-medium">You create &quot;Sprint planning with Abhay&quot;. You pick a 15-minute reminder. At exactly 15 minutes before the meeting, Flowlog checks the schedule. It sends an email to you containing the time, client, and any notes you added.</p>
           </div>
           <blockquote className="border-l-4 border-primary/50 pl-4 italic text-muted-foreground bg-muted/20 py-2 rounded-r-lg font-medium">
             Good to know: In a future update, Flowlog will automatically import meeting transcripts from Google Meet to extract action items.
@@ -351,7 +351,7 @@ export default function DocsPage() {
           </div>
           <div className="text-muted-foreground">
             <p className="font-semibold text-foreground">A real example:</p>
-            <p className="font-medium">You want to invoice &quot;Abhishek&quot; for last month. You open your Timeline. You apply the Abhishek client filter and set the date to last month. You instantly see every task you finished for him, the exact time it was completed, and the day log it belonged to.</p>
+            <p className="font-medium">You want to invoice &quot;Abhay&quot; for last month. You open your Timeline. You apply the Abhay client filter and set the date to last month. You instantly see every task you finished for him, the exact time it was completed, and the day log it belonged to.</p>
           </div>
           <blockquote className="border-l-4 border-primary/50 pl-4 italic text-muted-foreground bg-muted/20 py-2 rounded-r-lg font-medium">
             Good to know: Performance reviews and invoices become very easy when you never have to remember your past work manually.

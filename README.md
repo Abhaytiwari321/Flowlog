@@ -45,7 +45,7 @@ Flowlog is a daily work tracker for developers, freelancers, and team leads who 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/GuptaAbhi09/flowlog-website.git
+   git clone https://github.com/Abhaytiwari321/Flowlog.git
    cd flowlog-website
    ```
 
@@ -78,11 +78,11 @@ Flowlog is a daily work tracker for developers, freelancers, and team leads who 
 
 ## 👤 Ownership
 
-This project is authored, owned, and maintained by **Abhishek Gupta** ([@GuptaAbhi09](https://github.com/GuptaAbhi09)). All rights reserved.
+This project is authored, owned, and maintained by **Abhay Tiwari** ([@Abhaytiwari321](https://github.com/Abhaytiwari321)). All rights reserved.
 
 ## 📄 License
 
 This project is licensed under the MIT License.
 
 ---
-Built with ❤️ by [Abhishek Gupta](https://github.com/GuptaAbhi09)
+Built with ❤️ by [Abhay Tiwari](https://github.com/Abhaytiwari321)
